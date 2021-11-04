@@ -14,7 +14,7 @@
 ### 📄 Projects
 |Date|Name|Type|Where|Role|
 |------|---|---|---|---|
-|2020.11|DreamScape|2D PC Game|1st MaKING Jam DreamScape|Graphic(Art)|
+|2020.11|DreamScape|2D PC Game|1st MaKING Jam hackathon|Graphic(Art)|
 |2020.12~2021.2|Armadillo Dash|2D PC Game|KING 2020-winter project|Programming|
 |2021.6~2021.8|Cube Escape|3D PC Game|KING 2021-summer project|Programming|
 
