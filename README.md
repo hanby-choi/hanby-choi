@@ -15,8 +15,9 @@
 |Date|Name|Type|Where|Role|
 |------|---|---|---|---|
 |2020.11|DreamScape|2D PC Game|1st MaKING Jam hackathon|Graphic(Art)|
-|2020.12~2021.2|Armadillo Dash|2D PC Game|KING 2020-winter project|Programming|
-|2021.6~2021.8|Cube Escape|3D PC Game|KING 2021-summer project|Programming|
+|2020.12~2021.2|Armadillo Dash|2D PC Multi Shooting Game|KING 2020-winter project|Programming|
+|2021.6~2021.8|Cube Escape|3D PC Horror Escape Game|KING 2021-summer project|Programming|
+|2021.12~2022.1|냥과 함께|2D PC Story Platformer Game|2nd MaKING Jam hackathon|Programming|
 
 <!--
 **hanby-choi/hanby-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
