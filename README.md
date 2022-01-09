@@ -26,6 +26,7 @@ etc: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&lo
 |2020.12~2021.2|Armadillo Dash|2D PC Multi Shooting Game|KING 2020-winter project|Programming|
 |2021.6~2021.8|Cube Escape|3D PC Horror Escape Game|KING 2021-summer project|Programming|
 |2021.12~2022.1|냥과 함께|2D PC Story Platformer Game|2nd MaKING Jam hackathon|Programming|
+|2021.12~2022.2|Cube Escape Web Page|Web|GDSC 2021-2 project|Front-end/Back-end Programming|
 
 <!--
 **hanby-choi/hanby-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
