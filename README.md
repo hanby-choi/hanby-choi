@@ -16,7 +16,8 @@ Front-end: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> <br>
 Back-end: <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"><br>
+<img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"><br>
 etc: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 - - -
 ### 📄 Projects
