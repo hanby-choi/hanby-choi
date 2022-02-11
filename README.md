@@ -28,7 +28,7 @@ etc: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&lo
 |2020.12~2021.2|Armadillo Dash|2D PC Multi Shooting Game|Unity|KING 2020-winter project|Programming|
 |2021.6~2021.8|Cube Escape|3D PC Horror Escape Game|Unity|KING 2021-summer project|Programming|
 |2021.12~2022.1|냥과 함께|2D PC Story Platformer Game|Unity|2nd MaKING Jam hackathon|Programming|
-|2021.12~2022.2|Cube Escape Web Page|Web Page|React, Node.js, MongoDB|GDSC 2021-2 project|Front-end/Back-end Programming|
+|2021.12~2022.2|Cube Escape Web Page|Web Page|MongoDB, Express, React, Node.js|GDSC 2021-2 project|Front-end/Back-end Programming|
 |2021.12~|The Sweeper|2D PC Platformer Rhythm Game|Unity, Clip Studio|KING 2021-winter project|Graphic(Art), Sub Programming|
 
 <!--
