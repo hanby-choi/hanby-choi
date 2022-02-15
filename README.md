@@ -1,4 +1,4 @@
-## 🐬 Hello world! 🍀
+## 🐬 Hello World! 🍀
 💻 EWHA Computer Science & Engineering 20'<br>
 🎮️ 소프트웨어학부 소속 게임제작 동아리 KING ```2020.4~```<br>
 💻 EWHA Google Developer Student Clubs ```2021.9~```
@@ -19,7 +19,7 @@ Back-end: <img src="https://img.shields.io/badge/node.js-339933?style=flat-squar
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"><br>
-etc: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
+etc: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=ffffff"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
 - - -
 ### 📄 Projects
 |Date|Name|Type|Stack(Tool)|Where|Role|
