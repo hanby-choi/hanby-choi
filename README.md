@@ -6,7 +6,6 @@
 ### ✨ Status
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanby-choi&count_bg=%23C7F6FF&title_bg=%23B0D5FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanby-choi)](https://github.com/hanby-choi/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanby-choi)](https://github.com/hanby-choi/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanby01)](https://solved.ac/hanby01)
 - - -
 ### 🌱 I’m currently learning ...
