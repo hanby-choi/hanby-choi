@@ -9,7 +9,8 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanby01)](https://solved.ac/hanby01)
 - - -
 ### 🌱 I’m currently learning ...
-Game: <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff"/><br>
+Game: <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/PUN2(Photon)-368AFF?style=flat-square&logo=Photon&logoColor=ffffff"/><br>
 Front-end: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -29,8 +30,8 @@ etc: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&lo
 |Date|Name|Type|Stack(Tool)|Where|Role|
 |------|---|---|---|---|---|
 |2020.11|DreamScape|2D PC Game|Unity, Clip Studio|1st MaKING Jam hackathon|Graphic(Art)|
-|2020.12~2021.2|Armadillo Dash|2D PC Multi Shooting Game|Unity|KING 2020-winter project|Programming|
+|2020.12~2021.2|Armadillo Dash|2D PC Multi Shooting Game|Unity, PUN2(Photon Unity Networking 2)|KING 2020-winter project|Programming|
 |2021.6~2021.8|Cube Escape|3D PC Horror Escape Game|Unity|KING 2021-summer project|Programming|
 |2021.12~2022.1|냥과 함께(|2D PC Story Platformer Game|Unity|2nd MaKING Jam hackathon|Programming|
-|2021.12~2022.2|Cube Escape Web Page|Web Page|MongoDB, Express, React, Node.js|GDSC 2021-2 project|Front-end/Back-end Programming|
+|2021.12~2022.2|Cube Escape Web Page|Web Page|MongoDB, Express, React, Node.js, heroku|GDSC 2021-2 project|Front-end/Back-end Programming|
 |2021.12~|The Sweeper|2D PC Platformer Rhythm Game|Unity, Clip Studio|KING 2021-winter project|Graphic(Art), Sub Programming|
