@@ -35,3 +35,4 @@ etc: <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&lo
 |2021.12~2022.1|냥과 함께(With Cat)|2D PC Story Platformer Game|Unity|2nd MaKING Jam hackathon|Programming|
 |2021.12~2022.2|Cube Escape Web Page|Web Page|MongoDB, Express, React, Node.js, Heroku|GDSC 2021-2 project|Front-end/Back-end Programming|
 |2021.12~|Crush The Moon|2D PC Platformer Rhythm Game|Unity, Clip Studio|KING 2021-winter project|Graphic(Art), Programming|
+|2022.03~2022.06|Ewha Playlist|Music Management DBMS|Java(JDBC), MySQL|2022-1 Database|Programming|
