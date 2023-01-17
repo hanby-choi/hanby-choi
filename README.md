@@ -9,8 +9,8 @@
 - - -
 ### 🌱 I’m currently learning ...
 Game: <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PUN2(Photon)-368AFF?style=flat-square&logo=Photon&logoColor=ffffff"/><br>
-<img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=C Sharp&logoColor=white"><br>
+<img src="https://img.shields.io/badge/PUN2(Photon)-368AFF?style=flat-square&logo=Photon&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C Sharp-239120.svg?&style=flat-square&logo=Csharp&logoColor=white"/><br>
 Front-end: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
