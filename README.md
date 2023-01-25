@@ -6,7 +6,7 @@
 ### ✨ Status
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanby-choi&count_bg=%23C7F6FF&title_bg=%23B0D5FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)<br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanby01)](https://solved.ac/hanby01)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={hanby01}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=hanby01&theme=cold)
 - - -
 ### 🌱 I’m currently learning ...
 Game: <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff"/>
