@@ -30,14 +30,14 @@ Etc: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"> 
 - - -
 ### 📄 Projects
-|Date|Name|Type|Stack(Tool)|Where|Role|
-|------|---|---|---|---|---|
-|2023.1 ~ now|LUNO|2D PC Story Platformer Adventure Game|Unity|STORYG project|Programming|
-|2023.1|Save the sleeping bunny|2D PC Casual Arcade Game|Unity|1st UNIJAM hackathon|Main Programming|
-|2022.03 ~ 2022.06|Ewha Playlist|Music Management DBMS|Java(JDBC), MySQL|2022-1 Database|Programming|
-|2021.12 ~ now|Crush The Moon|2D PC Platformer Rhythm Game|Unity, Clip Studio|KING 2021-winter project & SGM Indie Game 14th|Graphic(Art), Programming|
-|2021.12 ~ 2022.2|Cube Escape Web Page|Web Page|MongoDB, Express, React, Node.js, Heroku|GDSC 2021-2 project|Front-end/Back-end Programming|
-|2021.12 ~ 2022.1|냥과 함께(With Cat)|2D PC Story Platformer Game|Unity|2nd MaKING Jam hackathon|Programming|
-|2021.6 ~ 2021.8|Cube Escape|3D PC Horror Escape Game|Unity|KING 2021-summer project|Programming|
-|2020.12 ~ 2021.2|Armadillo Dash|2D PC Multi Shooting Game|Unity, PUN2(Photon Unity Networking 2)|KING 2020-winter project|Programming|
-|2020.11|DreamScape|2D PC Game|Unity, Clip Studio|1st MaKING Jam hackathon|Graphic(Art)|
+|Date|Name|Type|Stack(Tool)|Where|Role|Deploy|
+|------|---|---|---|---|---|---|
+|2023.1 ~ now|[LUNO](https://github.com/Team-LUNO/LUNO)|2D PC Story Platformer Adventure Game|Unity|STORYG project|Programming||
+|2023.1|[Save the sleeping bunny](https://github.com/hanby-choi/UNIJAM_6)|2D PC Casual Arcade Game|Unity|1st UNIJAM hackathon|Main Programming|[Web](https://hanby-choi.github.io/UNIJAM_Bunny_Web/)|
+|2022.03 ~ 2022.06|[Ewha Playlist](https://github.com/flowersayo/Ewha_Playlist)|Music Management DBMS|Java(JDBC), MySQL|2022-1 Database|Programming|[GitHub](https://github.com/flowersayo/Ewha_Playlist)|
+|2021.12 ~ now|[Crush The Moon](https://github.com/CrushTheMoon/The-Sweeper)|2D PC Platformer Rhythm Game|Unity, Clip Studio|KING 2021-winter project & SGM Indie Game 14th|Graphic(Art), Programming||
+|2021.12 ~ 2022.2|[Cube Escape Web Page](https://github.com/gdscewha-3rd/Project-CubeEscapeWeb)|Web Page|MongoDB, Express, React, Node.js, Heroku|GDSC 2021-2 project|Front-end/Back-end Programming|[Web](https://cube-escape-web.herokuapp.com/)|
+|2021.12 ~ 2022.1|[냥과 함께(With Cat)](https://github.com/sunnyineverywhere/MaKingJAM_With-Cat)|2D PC Story Platformer Game|Unity|2nd MaKING Jam hackathon|Programming||
+|2021.6 ~ 2021.8|[Cube Escape](https://github.com/Cube-escape/CubeEscape)|3D PC Horror Escape Game|Unity|KING 2021-summer project|Programming|[Web](https://cube-escape-web.herokuapp.com/)|
+|2020.12 ~ 2021.2|[Armadillo Dash](https://github.com/Armadillo-Project/armadillo)|2D PC Multi Shooting Game|Unity, PUN2(Photon Unity Networking 2)|KING 2020-winter project|Programming||
+|2020.11|DreamScape|2D PC Game|Unity, Clip Studio|1st MaKING Jam hackathon|Graphic(Art)||
