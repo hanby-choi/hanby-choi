@@ -2,6 +2,9 @@
 💻 EWHA Computer Science & Engineering 20'<br>
 🎮️ Software Department Game Making Club KING ```2020.4 ~```<br>
 💻 EWHA Google Developer Student Clubs ```2021.9 ~ 2022.8```
+
+👩🏻‍💻[**Resume**](https://lemon27.notion.site/Resume-613162bc22484a10bb86dad7008d3b72)
+👩🏻‍💻[**이력서**](https://lemon27.notion.site/d8c5e740c1044803a1cbd0083bc7fb52)
 - - -
 ### 🌱 I’m currently learning ...
 Game: <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff"/>
