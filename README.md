@@ -31,7 +31,7 @@ Etc: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white"> 
 - - -
 ### ✨ Status
-![LeetCode Stats](https://leetcard.jacoblin.cool/hanna0135?theme=light&font=Noto%20Serif%20KR)
+![LeetCode Stats](https://leetcard.jacoblin.cool/hanna0135?theme=unicorn&font=Noto%20Serif%20KR)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanby01)](https://solved.ac/hanby01)
 - - -
 ### 📄 Projects
