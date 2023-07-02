@@ -37,7 +37,7 @@ Etc: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo
 ### 📄 Projects
 |Date|Name|Type|Stack(Tool)|Where|Role|Deploy|
 |------|---|---|---|---|---|---|
-|2023.7|Schedule Artist|Web Page|React|EFUB SWS Project|Web Front-end Programming||
+|2023.7|Schedule Artist|Web Page|React|EFUB 3rd SWS Project|Web Front-end Programming||
 |2023.5|[EFUB 3rd lead clone coding: hanatour](https://github.com/EFUB3-LEAD1/EFUB3-LEAD1-FRONT)|Web Page|React|EFUB 3rd lead clone coding|Front-end Programming|[Web](https://clone.htour.xyz/) |
 |2023.1 ~ now|[LUNO](https://github.com/Team-LUNO/LUNO)|2D PC Story Platformer Adventure Game|Unity|STORYG project|Programming||
 |2023.1|[Save the sleeping bunny](https://github.com/hanby-choi/UNIJAM_6)|2D PC Casual Arcade Game|Unity|1st UNIJAM hackathon|Main Programming|[Web](https://hanby-choi.github.io/UNIJAM_Bunny_Web/)|
