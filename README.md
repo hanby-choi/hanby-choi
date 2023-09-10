@@ -1,8 +1,8 @@
 ## 🐬 Hello World! 🍀
 💻 EWHA Computer Science & Engineering 20'<br>
-🎮️ Software Department Game Making Club KING ```2020.4 ~```<br>
-💻 Google Developer Student Clubs GDSC EWHA ```2021.9 ~ 2022.8```<br>
-💻 EWHA Web Development Career Club EFUB ```2023.3 ~```
+🎮️ Software Department Game Making Club KING 10th Member ```2020.4 ~```<br>
+💻 Google Developer Student Clubs GDSC EWHA 3rd Member ```2021.9 ~ 2022.8```<br>
+💻 EWHA Web Development Career Club EFUB 3rd Front-end Lead ```2023.3 ~```
 
 👩🏻‍💻[**Resume**](https://lemon27.notion.site/Resume-613162bc22484a10bb86dad7008d3b72)
 👩🏻‍💻[**이력서**](https://lemon27.notion.site/d8c5e740c1044803a1cbd0083bc7fb52)
@@ -10,9 +10,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanby-choi&count_bg=%23C7F6FF&title_bg=%23B0D5FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - - -
 ### 🌱 I’m currently learning ...
-Game: <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/C Sharp-239120.svg?&style=flat-square&logo=Csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/PUN2(Photon)-368AFF?style=flat-square&logo=Photon&logoColor=ffffff"/><br>
 Web Front-end: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -21,7 +18,11 @@ Web Back-end: <img src="https://img.shields.io/badge/Node.js-339933?style=flat-s
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"><br>
-Graphic: <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"> <br>
+Game: <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/C Sharp-239120.svg?&style=flat-square&logo=Csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/PUN2(Photon)-368AFF?style=flat-square&logo=Photon&logoColor=ffffff"/><br>
+Graphic: <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> <br> 
 Etc: <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=ffffff"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff"/>
