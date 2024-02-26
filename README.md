@@ -4,8 +4,7 @@
 💻 Google Developer Student Clubs GDSC EWHA 3rd Member ```2021.9 ~ 2022.8```<br>
 💻 EWHA Web Development Career Club EFUB 3rd Front-end Lead ```2023.3 ~ 2023.12```
 
-👩🏻‍💻[**Resume**](https://lemon27.notion.site/Resume-613162bc22484a10bb86dad7008d3b72)
-👩🏻‍💻[**이력서**](https://lemon27.notion.site/d8c5e740c1044803a1cbd0083bc7fb52)
+👩🏻‍💻[**Resume**](https://drive.google.com/file/d/1xOggItx2KEkaP1yNR8lWPMH7Te9zBpl5/view?usp=sharing)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanby-choi&count_bg=%23C7F6FF&title_bg=%23B0D5FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - - -
@@ -44,16 +43,16 @@ Etc: <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cp
 ### 📄 Projects
 |Date|Name|Type|Stack(Tool)|Where|Role|Deploy|
 |------|---|---|---|---|---|---|
-|2023.09 ~ now |[Dasi: Senior expert talent pool](https://github.com/orgs/Gamja-dori/repositories)|Web Page|React, TSX, Django, Python, MySQL, Figma|EWHA CSE Capstone Project|Web Front-end/Back-end Programming, UI/UX Design||
-|2023.12|[Find your Pokemon: CNN Image Classification](https://github.com/SeoYeomm/Find-Your-Pokemon)|CNN Model|Python, Kolab|2023-2 Machine Learning Class|Design and code Model Input/Output|[Github](https://github.com/SeoYeomm/Find-Your-Pokemon)|
-|2023.09 ~ 2023.11|[EEOZUM: A Platform to support Women on Career breaks](https://github.com/Mt-EB-Rainbow/front)|Web Page|React, JSX, Figma|SW Developing Contest for Public Service in Seongdong-gu|Web Front-end Programming, UI/UX Design|[Web](https://eeozum.vercel.app/)|
-|2023.7 ~ 2023.8|[Timetable Artist](https://github.com/SamwaMoney/Timetable-Artist-front)|Web Page|React, JSX / Java|EFUB 3rd SWS Project|Web Front-end Programming, Designing Timetable Scoring Algorithm|[Web](https://www.time-table-artist.com/)|
-|2023.5|[EFUB 3rd lead clone coding: hanatour](https://github.com/EFUB3-LEAD1/EFUB3-LEAD1-FRONT)|Web Page|React, JSX|EFUB 3rd lead clone coding|Front-end Programming|[Web](https://clone.htour.xyz/) |
+|2023.09 ~ now |[Dasi: Senior expert talent pool](https://github.com/orgs/Gamja-dori/repositories)|Web Page|React, TypeScript, Django, Python, MySQL, Figma|EWHA CSE Capstone Project|Web Front-end/Back-end Programming, UI/UX Design||
+|2023.12|[Find your Pokemon: CNN Image Classification](https://github.com/SeoYeomm/Find-Your-Pokemon)|CNN Model|Python, Colab|2023-2 Machine Learning Class|Design and code Model Input/Output|[Github](https://github.com/SeoYeomm/Find-Your-Pokemon)|
+|2023.09 ~ 2023.11|[EEOZUM: A Platform to support Women on Career breaks](https://github.com/Mt-EB-Rainbow/front)|Web Page|React, JavaScript, Figma|SW Developing Contest for Public Service in Seongdong-gu|Web Front-end Programming, UI/UX Design|[Web](https://eeozum.vercel.app/)|
+|2023.7 ~ 2023.8|[Timetable Artist](https://github.com/SamwaMoney/Timetable-Artist-front)|Web Page|React, JavaScript / Java|EFUB 3rd SWS Project|Web Front-end Programming, Designing Timetable Scoring Algorithm|[Web](https://www.time-table-artist.com/)|
+|2023.5|[EFUB 3rd lead clone coding: hanatour](https://github.com/EFUB3-LEAD1/EFUB3-LEAD1-FRONT)|Web Page|React, JavaScript|EFUB 3rd lead clone coding|Front-end Programming|[Web](https://clone.htour.xyz/) |
 |2023.1 ~ 2023.12|[LUNO](https://github.com/Team-LUNO/LUNO)|2D PC Story Platformer Adventure Game|Unity|STORYG project|Programming||
 |2023.1|[Save the sleeping bunny](https://github.com/hanby-choi/UNIJAM_6)|2D PC Casual Arcade Game|Unity|1st UNIJAM hackathon|Main Programming|[Web](https://hanby-choi.github.io/UNIJAM_Bunny_Web/)|
 |2022.03 ~ 2022.06|[Ewha Playlist](https://github.com/flowersayo/Ewha_Playlist)|Music Management DBMS|Java(JDBC), MySQL|2022-1 Database Class|Programming|[GitHub](https://github.com/flowersayo/Ewha_Playlist)|
 |2021.12 ~ 2023.06|[Crush The Moon](https://github.com/CrushTheMoon/The-Sweeper)|2D PC Platformer Rhythm Game|Unity, Clip Studio|KING 2021-winter project & SGM Indie Game 14th|Graphic(Art), Programming||
-|2021.12 ~ 2022.2|[Cube Escape Web Page](https://github.com/gdscewha-3rd/Project-CubeEscapeWeb)|Web Page|MongoDB, Express, React, JSX, Node.js, Heroku|GDSC 2021-2 project|Web Front-end/Back-end Programming|[Web](https://cube-escape-web.herokuapp.com/)|
+|2021.12 ~ 2022.2|[Cube Escape Web Page](https://github.com/gdscewha-3rd/Project-CubeEscapeWeb)|Web Page|MongoDB, Express, React, JavaScript, Node.js, Heroku|GDSC 2021-2 project|Web Front-end/Back-end Programming|[Web](https://cube-escape-web.herokuapp.com/)|
 |2021.12 ~ 2022.1|[냥과 함께(With Cat)](https://github.com/sunnyineverywhere/MaKingJAM_With-Cat)|2D PC Story Platformer Game|Unity|2nd MaKING Jam hackathon|Programming||
 |2021.6 ~ 2021.8|[Cube Escape](https://github.com/Cube-escape/CubeEscape)|3D PC Horror Escape Game|Unity|KING 2021-summer project|Programming|[Web](https://cube-escape-web.herokuapp.com/)|
 |2020.12 ~ 2021.2|[Armadillo Dash](https://github.com/Armadillo-Project/armadillo)|2D PC Multi Shooting Game|Unity, PUN2(Photon Unity Networking 2)|KING 2020-winter project|Programming||
