@@ -2,6 +2,7 @@
 💻 EWHA Computer Science & Engineering 20'<br>
 🎮️ Software Department Game Making Club KING 10th Member ```2020.4 ~```<br>
 💻 Google Developer Student Clubs GDSC EWHA 3rd Member ```2021.9 ~ 2022.8```<br>
+🎮️ Smilegate Indie Game Membership 14th Member ```2022.7 ~ 2023.01```<br>
 💻 EWHA Web Development Career Club EFUB 3rd Front-end Lead ```2023.3 ~ 2023.12```
 
 👩🏻‍💻[**Resume**](https://drive.google.com/file/d/1xOggItx2KEkaP1yNR8lWPMH7Te9zBpl5/view?usp=sharing)
