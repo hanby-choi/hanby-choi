@@ -44,7 +44,7 @@ Etc: <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cp
 ### 📄 Projects
 |Date|Name|Type|Stack(Tool)|Where|Role|Deploy|
 |------|---|---|---|---|---|---|
-|2023.09 ~ now |[Dasi: Senior expert talent pool](https://github.com/orgs/Gamja-dori/repositories)|Web Page|React, TypeScript, Django, Python, MySQL, Figma|EWHA CSE Capstone Project|Web Front-end/Back-end Programming, UI/UX Design||
+|2023.09 ~ now |[Dasi: Senior expert talent pool](https://github.com/orgs/Gamja-dori/repositories)|Web Page|React, TypeScript, Django, Python, MySQL, Figma|EWHA CSE Capstone Project|Web Front-end/Back-end Programming, UI/UX Design|[Web](https://www.dasi-expert.com/)|
 |2023.12|[Find your Pokemon: CNN Image Classification](https://github.com/SeoYeomm/Find-Your-Pokemon)|CNN Model|Python, Colab|2023-2 Machine Learning Class|Design and code Model Input/Output|[Github](https://github.com/SeoYeomm/Find-Your-Pokemon)|
 |2023.09 ~ 2023.11|[EEOZUM: A Platform to support Women on Career breaks](https://github.com/Mt-EB-Rainbow/front)|Web Page|React, JavaScript, Figma|SW Developing Contest for Public Service in Seongdong-gu|Web Front-end Programming, UI/UX Design|[Web](https://eeozum.vercel.app/)|
 |2023.7 ~ 2023.8|[Timetable Artist](https://github.com/SamwaMoney/Timetable-Artist-front)|Web Page|React, JavaScript / Java|EFUB 3rd SWS Project|Web Front-end Programming, Designing Timetable Scoring Algorithm|[Web](https://www.time-table-artist.com/)|
