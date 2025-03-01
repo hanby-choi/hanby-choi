@@ -4,10 +4,6 @@
 💻 Google Developer Student Clubs GDSC EWHA 3rd Member ```2021.9 ~ 2022.8```<br>
 🎮️ Smilegate Indie Game Membership 14th Member ```2022.7 ~ 2023.01```<br>
 💻 EWHA Web Development Career Club EFUB 3rd Front-end Lead ```2023.3 ~ 2023.12```<br>
-💻 Software Engineer Intern at Chartmetric ```2024.7 ~ 2024.12```<br>
-💻 Software Engineer at Chartmetric ```2025.1 ~ current```
-
-👩🏻‍💻[**Resume**](https://drive.google.com/file/d/1xOggItx2KEkaP1yNR8lWPMH7Te9zBpl5/view?usp=sharing)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanby-choi&count_bg=%23C7F6FF&title_bg=%23B0D5FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - - -
