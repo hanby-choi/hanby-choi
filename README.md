@@ -7,7 +7,6 @@
 💻 Software Engineer Intern at Chartmetric ```2024.7 ~ 2024.12```<br>
 💻 Software Engineer at Chartmetric ```2025.1 ~ current```
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhanby-choi&count_bg=%23C7F6FF&title_bg=%23B0D5FF&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - - -
 ### 🌱 I’m currently learning ...
 Web Front-end: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/> 
